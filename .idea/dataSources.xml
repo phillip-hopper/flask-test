@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3291209634">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - flaskr.db" uuid="4a81d1b0-258c-4941-82e2-4aa5bbc8f57f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:/tmp/flaskr.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
